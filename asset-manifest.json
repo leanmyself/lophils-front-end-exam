@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lophils-front-end-exam/static/css/main.a90687f6.css",
+    "main.js": "/lophils-front-end-exam/static/js/main.06e10b11.js",
+    "index.html": "/lophils-front-end-exam/index.html",
+    "main.a90687f6.css.map": "/lophils-front-end-exam/static/css/main.a90687f6.css.map",
+    "main.06e10b11.js.map": "/lophils-front-end-exam/static/js/main.06e10b11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a90687f6.css",
+    "static/js/main.06e10b11.js"
+  ]
+}
